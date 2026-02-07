@@ -22,7 +22,8 @@ document.getElementById("yes").addEventListener("click", () => {
       text-align:center;
       font-family:Poppins,sans-serif;
     ">
-      <h1>Yayyy Sreenandha 💕<br>I knew it 😘</h1>
+      <h1>Yayyy Sreeh 💕<br>I knew it 😘</h1>
     </div>
   `;
+
 });
